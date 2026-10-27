@@ -23,6 +23,9 @@
 - [Affordable auto insurance Youngstown drivers can review](https://local-business-guides.github.io/prism-insurance-llc-youngstown/affordable-auto-insurance-youngstown/): Explore affordable auto insurance Youngstown choices with help reviewing coverage details and carrier options.
 - [Vehicle insurance agency Youngstown drivers can contact](https://local-business-guides.github.io/prism-insurance-llc-youngstown/vehicle-insurance-agency-youngstown/): Talk with a vehicle insurance agency Youngstown drivers can ask about carrier choices and coverage details.
 
+## Newsroom
+- [Youngstown Drivers Get New Auto Insurance Resources](https://local-business-guides.github.io/prism-insurance-llc-youngstown/news/2026-10-27-youngstown-drivers-get-new-auto-insurance-resource/): Prism Insurance LLC has released a guide, a YouTube video and a podcast episode about auto insurance in Youngstown. (2026-10-27)
+
 ## Pages
 - [Auto Insurance in Youngstown, Ohio](https://local-business-guides.github.io/prism-insurance-llc-youngstown/): Explore coverage options from multiple companies with a locally owned brokerage serving Youngstown. Call +1234-228-8478.
 - [About Prism Insurance LLC](https://local-business-guides.github.io/prism-insurance-llc-youngstown/about/): About Prism Insurance LLC, Youngstown.
@@ -30,3 +33,4 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/prism-insurance-llc-youngstown/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/prism-insurance-llc-youngstown/news/rss.xml)
