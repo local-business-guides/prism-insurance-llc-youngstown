@@ -12,9 +12,9 @@
 - Insurance agency
 
 ## Guides
-- [A Youngstown Driver’s Guide to auto insurance in youngstown](https://local-business-guides.github.io/prism-insurance-llc-youngstown/auto-insurance-in-youngstown/): Compare auto insurance in youngstown with help reviewing coverage options from multiple carriers.
-- [Auto Insurance choices, explained for everyday drivers](https://local-business-guides.github.io/prism-insurance-llc-youngstown/auto-insurance/): Review Auto Insurance options and compare coverage choices with a Youngstown, Ohio brokerage.
 - [How to Choose the best auto insurance Youngstown](https://local-business-guides.github.io/prism-insurance-llc-youngstown/best-auto-insurance-youngstown/): Compare auto coverage options and find a policy that fits your needs in Youngstown.
+- [Auto Insurance choices, explained for everyday drivers](https://local-business-guides.github.io/prism-insurance-llc-youngstown/auto-insurance/): Review Auto Insurance options and compare coverage choices with a Youngstown, Ohio brokerage.
+- [A Youngstown Driver’s Guide to auto insurance in youngstown](https://local-business-guides.github.io/prism-insurance-llc-youngstown/auto-insurance-in-youngstown/): Compare auto insurance in youngstown with help reviewing coverage options from multiple carriers.
 - [A Guide to the best auto insurance in youngstown](https://local-business-guides.github.io/prism-insurance-llc-youngstown/best-auto-insurance-in-youngstown/): Find and compare auto insurance choices for your needs with local help in Youngstown.
 - [Auto insurance near me in Youngstown, Ohio](https://local-business-guides.github.io/prism-insurance-llc-youngstown/auto-insurance-near-me/): Auto insurance near me: compare coverage options with a Youngstown, Ohio insurance brokerage.
 - [Local auto insurance Youngstown drivers can compare](https://local-business-guides.github.io/prism-insurance-llc-youngstown/local-auto-insurance-youngstown/): Local auto insurance Youngstown drivers can review with a nearby brokerage for coverage choices in Youngstown, Ohio.
@@ -24,6 +24,7 @@
 - [Vehicle insurance agency Youngstown drivers can contact](https://local-business-guides.github.io/prism-insurance-llc-youngstown/vehicle-insurance-agency-youngstown/): Talk with a vehicle insurance agency Youngstown drivers can ask about carrier choices and coverage details.
 
 ## Newsroom
+- [Prism Insurance LLC Publishes Guide to Best Auto Insurance Youngstown](https://local-business-guides.github.io/prism-insurance-llc-youngstown/news/2026-10-31-prism-insurance-llc-publishes-guide-to-best-auto/): Prism Insurance LLC has published a guide to best auto insurance Youngstown, with a YouTube video, podcast episode and SoundCloud audio version. (2026-10-31)
 - [Youngstown Drivers Get New Auto Insurance Resources](https://local-business-guides.github.io/prism-insurance-llc-youngstown/news/2026-10-27-youngstown-drivers-get-new-auto-insurance-resource/): Prism Insurance LLC has released a guide, a YouTube video and a podcast episode about auto insurance in Youngstown. (2026-10-27)
 
 ## Pages
